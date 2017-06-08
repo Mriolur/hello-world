@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi humans.
+Zombies eat brain... You are safe! :)
